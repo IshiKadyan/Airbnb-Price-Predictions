@@ -77,6 +77,3 @@ Master’s in Computer Science & Engineering
 
 ---
 
-## 📬 Contact
-
-Feel free to connect for collaboration or queries!
