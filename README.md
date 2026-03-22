@@ -63,12 +63,6 @@ The dataset includes:
 * Integration with real-time Airbnb data
 * Adding deep learning models
 
----
-
-## 📷 Sample Output
-
-(Add screenshots/graphs here)
-
 
 ## 👩‍💻 Author
 
